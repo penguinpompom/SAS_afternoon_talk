@@ -1,0 +1,8 @@
+.DS_Store
+env/
+backup/
+output/
+resources/
+src/chromedriver
+src/logs/geckodriver.log
+src/logs/ghostdriver.log
