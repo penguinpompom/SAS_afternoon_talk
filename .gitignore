@@ -1,8 +1,9 @@
-.DS_Store
-env/
-backup/
-output/
-resources/
-src/chromedriver
-src/logs/geckodriver.log
-src/logs/ghostdriver.log
+SAS_afternoon_talk/.DS_Store
+SAS_afternoon_talk/env/
+SAS_afternoon_talk/backup/
+SAS_afternoon_talk/output/
+SAS_afternoon_talk/resources/
+SAS_afternoon_talk/important/
+SAS_afternoon_talk/src/chromedriver
+SAS_afternoon_talk/src/logs/geckodriver.log
+SAS_afternoon_talk/src/logs/ghostdriver.log
